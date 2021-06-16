@@ -10,6 +10,7 @@
 Электронная почта проверяется с помощью регулярных выражений.
 
 Пример (жирным шрифтом выделен ввод пользователя):
+  
   **ADD mail@mail.ru**
   
   **ADD hello@gmail.ru**
@@ -20,7 +21,7 @@
   
   **LIST**
   
-  hello@skillbox.ru
+  *hello@skillbox.ru*
   
-  mail@mail.ru
+  *mail@mail.ru*
   
